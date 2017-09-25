@@ -1,0 +1,12 @@
+{
+  "name": "lamda-getstream",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "role AWS",
+  "environment": {
+    "APP_ID": "APP_ID_GETSTREAM",
+    "API_KEY": "API_KEY_GETSTREAM",
+    "API_SECRET": "API_SECRET_GETSTREAM"
+  }
+}
